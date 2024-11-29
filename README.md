@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
     <a href="https://github.com/search?q=author%3Asky-max-hub+-owner%3Asky-max-hub+is%3Amerged&type=pullrequests">
         <picture>
             <source
@@ -75,4 +75,4 @@
             <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake.svg">
         </picture>
     </a>
-</p>
+</div>

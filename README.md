@@ -17,27 +17,27 @@
     <a href="https://leetcode.com/sky23333">
         <picture>
             <source
-              srcset="https://leetcard.jacoblin.cool/sky23333?theme=light&border=0&site=cn"
+              srcset="https://leetcard.jacoblin.cool/sky23333?theme=light&border=1&site=cn"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://leetcard.jacoblin.cool/sky23333?theme=dark&border=0&site=cn"
+              srcset="https://leetcard.jacoblin.cool/sky23333?theme=dark&border=1&site=cn"
               media="(prefers-color-scheme: dark)"
             />
-            <img src="https://leetcard.jacoblin.cool/sky23333?theme=light&border=0&site=cn" height=140  alt="sky23333's LeetCode stats" />
+            <img src="https://leetcard.jacoblin.cool/sky23333?theme=light&border=1&site=cn" height=140  alt="sky23333's LeetCode stats" />
         </picture>
     </a>
     <a href="https://github.com/search?q=author%3Asky-max-hub+-owner%3Asky-max-hub+is%3Amerged&type=pullrequests">
         <picture>
             <source
-              srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&&rank_icon=percentile&show_icons=true&layout=compact&langs_count=8&card_width=320"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&&rank_icon=percentile&show_icons=true&layout=compact&langs_count=8&card_width=400"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&&theme=dracula&rank_icon=percentile&show_icons=true&layout=compact&langs_count=8&card_width=320"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&&theme=dracula&rank_icon=percentile&show_icons=true&layout=compact&langs_count=8&card_width=400"
               media="(prefers-color-scheme: dark)"
             />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&&rank_icon=percentile&show_icons=true&layout=compact&langs_count=8&card_width=320" height=140  alt="Rwhither's GitHub stats" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&&rank_icon=percentile&show_icons=true&layout=compact&langs_count=8&card_width=400" height=140  alt="Rwhither's GitHub stats" />
         </picture>
     </a>
     <a href="https://github.com/search?q=author%3Asky-max-hub+-owner%3Asky-max-hub+is%3Amerged&type=pullrequests">

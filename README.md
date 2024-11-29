@@ -53,24 +53,24 @@
             <img src="https://github-readme-stats.vercel.app/api?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&&hide_title=true&rank_icon=percentile&show_icons=true" height=140  alt="Rwhither's GitHub stats" />
         </picture>
     </a>
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF&hide_title=true">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF&hide_title=true&area=true">
         <picture>
             <source
-              srcset="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF&hide_title=true"
+              srcset="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF&hide_title=true&area=true"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=282a36&color=f8f8f2&title_color=0864D1&line=0864D1&point=79dafa&hide_title=true"
+              srcset="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=282a36&color=f8f8f2&title_color=0864D1&line=0864D1&point=79dafa&hide_title=true&area=true"
               media="(prefers-color-scheme: dark)"
             />
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF&hide_title=true" height=280  alt="Rwhither's GitHub stats" />
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF&hide_title=true&area=true" height=200  alt="Rwhither's GitHub stats" />
         </picture>
     </a>
     <a href="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake-dark.svg">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake-dark.svg">
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake.svg">
-            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake.svg" height=200 >
         </picture>
     </a>
 </p>

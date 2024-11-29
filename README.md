@@ -52,7 +52,12 @@
         </picture>
     </a>
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+- [Nginx的高可用方案](https://blog.sky123.top/posts/other-article/nginx%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8%E6%96%B9%E6%A1%88/)
+- [Nginx负载均衡](https://blog.sky123.top/posts/other-article/nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/)
+- [Mybatis源码-级联映射和懒加载](https://blog.sky123.top/posts/mybatis-code/mybatis%E6%BA%90%E7%A0%81-%E7%BA%A7%E8%81%94%E6%98%A0%E5%B0%84%E5%92%8C%E6%87%92%E5%8A%A0%E8%BD%BD/)
+- [Mybatis源码-缓存实现](https://blog.sky123.top/posts/mybatis-code/mybatis%E6%BA%90%E7%A0%81-%E7%BC%93%E5%AD%98%E5%AE%9E%E7%8E%B0/)
+- [Mybatis源码-与Spring整合](https://blog.sky123.top/posts/mybatis-code/mybatis%E6%BA%90%E7%A0%81-%E4%B8%8Espring%E6%95%B4%E5%90%88/)
+<!-- BLOG-POST-LIST:END -->
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&hide_border=true&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF">
         <picture>
             <source

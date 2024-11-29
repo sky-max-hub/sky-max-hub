@@ -25,4 +25,4 @@ jobs:
           date_format: yy-mm-dd
           max_post_count: 5
           item_exec: "if (!post.title) post = null;" #to skip posts that don't have title
-          template: "<li><a href=`$url`>$title</a></li>"
+          template: "<li style=\"border-bottom: 0.5px solid #eee; text-align: left;\"><a href=\"$url\">$title</a></li>"

@@ -51,7 +51,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&hide_border=true&rank_icon=percentile&show_icons=true" height=140  alt="Rwhither's GitHub stats" />
         </picture>
     </a>
-    <ul>
+    <ul style="display: inline-block;">
       <!-- BLOG-POST-LIST:START -->
       <!-- BLOG-POST-LIST:END -->
     </ul>

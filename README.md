@@ -40,6 +40,19 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&hide_border=true&rank_icon=percentile&show_icons=true" height=140  alt="Rwhither's GitHub stats" />
         </picture>
     </a>
+    <a href="https://github.com/search?q=author%3Asky-max-hub+-owner%3Asky-max-hub+is%3Amerged&type=pullrequests">
+        <picture>
+            <source
+              srcset="https://github-readme-stats.vercel.app/api?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&hide_border=true&hide_title=true&rank_icon=percentile&show_icons=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <source 
+              srcset="https://github-readme-stats.vercel.app/api?username=sky-max-hub&hide_border=true&theme=dracula&hide_title=true&rank_icon=percentile&show_icons=true"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=sky-max-hub&title_color=0864D1&icon_color=1580FF&hide_border=true&hide_title=true&rank_icon=percentile&show_icons=true" height=140  alt="Rwhither's GitHub stats" />
+        </picture>
+    </a>
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&hide_border=true&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF">
         <picture>
             <source

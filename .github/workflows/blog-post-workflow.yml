@@ -18,5 +18,6 @@ jobs:
         with:
           feed_list: "https://blog.sky123.top/feed.xml"
           max_post_count: 5
+          item_exec: "if (!post.title) post = null;" #to skip posts that don't have title
           custom_tags: "blogTitle/rss/channel/item/title/,blogUrl/rss/channel/item/link/"
           template: "[$title]($url) $blogTitle $blogUrl"

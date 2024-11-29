@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://blog.sky123.top/feed.xml"
           max_post_count: 5
           custom_tags: "blogTitle/rss/channel/item/title/,blogUrl/rss/channel/item/link/"
-          template: [$title]($url) $blogTitle $blogUrl
+          template: "[$title]($url) $blogTitle $blogUrl"

@@ -64,4 +64,9 @@
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky-max-hub&hide_border=true&bg_color=ffffff&color=1580FF&title_color=0864D1&line=0864D1&point=1580FF" height=280  alt="Tomy's GitHub stats" />
         </picture>
     </a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sky-max-hub/sky-max-hub/output/github-contribution-grid-snake.svg">
+    </picture>
 </p>
